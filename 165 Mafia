@@ -200,7 +200,7 @@ a[b].attributes["data-load"])+""&&ImageLoader.load(a[b])}};window.ImageLoader=Im
             
 
             
-              <li class=""><a href="http://www.soundcloud.com/devvonterrell">
+              <li class=""><a href="https://soundcloud.com/user-591093260">
                 Music
               </a></li>
             
@@ -213,7 +213,7 @@ a[b].attributes["data-load"])+""&&ImageLoader.load(a[b])}};window.ImageLoader=Im
             
 
             
-              <li class=""><a href="http://www.youtube.com/devvonterrell">
+              <li class=""><a href="http://www.youtube.com/">
                 Videos
               </a></li>
             
@@ -226,8 +226,8 @@ a[b].attributes["data-load"])+""&&ImageLoader.load(a[b])}};window.ImageLoader=Im
             
 
             
-              <li class=""><a href="http://www.weirdobrand.spreadshirt.com">
-                MERCH
+              <li class=""><a href="">
+                Social Media
               </a></li>
             
 
@@ -300,13 +300,13 @@ a[b].attributes["data-load"])+""&&ImageLoader.load(a[b])}};window.ImageLoader=Im
             <a href="/">
               
               
-                Devvon Terrell
+                Flow of the Dons
               
               
             </a>
           </h1>
         
-          <p class="site-tagline">The Living WeirdO_o</p>
+          <p class="site-tagline">Flow of the Dons</p>
         
           
           <!--SITE contact info-->
